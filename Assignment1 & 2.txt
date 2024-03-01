@@ -5,7 +5,7 @@ Assignment 2 : How to remove double console.logs from React ? [ it is not needed
 Answer:This is because of React.StrictMode. In development mode only, it will mount every component twice to help catch accidental impurities in the code. We can remove React.StrictMode.
 
 Assignment 3 : Create a Page with multiple React Apps. Both React Apps should be independent of each other.
-Answer: Uploaded assignment3
+Answer: Uploaded on https://github.com/gitsumitsingh/React_Assignment1.3
 
 Assignment 4 : Try to build a react app using Vite
-Answer: Uploaded vite-projectAssignment4
+Answer: Uploaded on https://github.com/gitsumitsingh/React_Assignment1.4
